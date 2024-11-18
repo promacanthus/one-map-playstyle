@@ -46,7 +46,7 @@
 - 4.3 Headless 服务与 DNS
   - 讨论无头服务的概念及其在服务发现中的应用。
 
-## 第五章：[Kubernetes DNS](docs/05-chapter_5.md)
+## [第五章：Kubernetes DNS](docs/05-chapter_5.md)
 
 - 5.1 DNS 在 Kubernetes 中的角色
   - 描述 Kubernetes 内置 DNS 的功能和重要性。
