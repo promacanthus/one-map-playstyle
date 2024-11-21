@@ -25,8 +25,8 @@
         "type": 3
       },
       "seed": 760005025,
-      "version": 533,
-      "versionNonce": 1506673744,
+      "version": 535,
+      "versionNonce": 1381624761,
       "isDeleted": false,
       "boundElements": [
         {
@@ -34,15 +34,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731903047882,
+      "updated": 1732010077823,
       "link": null,
       "locked": false
     },
     {
       "id": "WRCdLqdu2uXrOjWkXjzcC",
       "type": "rectangle",
-      "x": 314.17256996557944,
-      "y": -321.8022225739642,
+      "x": 313.76631996557944,
+      "y": -319.7045663239642,
       "width": 712.28515625,
       "height": 1437.41015625,
       "angle": 0,
@@ -60,8 +60,8 @@
         "type": 3
       },
       "seed": 1039377839,
-      "version": 790,
-      "versionNonce": 1398758576,
+      "version": 864,
+      "versionNonce": 156665943,
       "isDeleted": false,
       "boundElements": [
         {
@@ -69,7 +69,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909718956,
+      "updated": 1732010077823,
       "link": null,
       "locked": false
     },
@@ -93,11 +93,11 @@
       "index": "a0",
       "roundness": null,
       "seed": 296792275,
-      "version": 350,
-      "versionNonce": 1931793551,
+      "version": 352,
+      "versionNonce": 1131809945,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488366070,
+      "updated": 1732010077823,
       "link": null,
       "locked": false,
       "name": null
@@ -124,8 +124,8 @@
         "type": 3
       },
       "seed": 1931720961,
-      "version": 799,
-      "versionNonce": 567340545,
+      "version": 801,
+      "versionNonce": 1613849975,
       "isDeleted": false,
       "boundElements": [
         {
@@ -133,7 +133,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731488833944,
+      "updated": 1732010077823,
       "link": null,
       "locked": false
     },
@@ -159,8 +159,8 @@
         "type": 3
       },
       "seed": 858190049,
-      "version": 1468,
-      "versionNonce": 1021082337,
+      "version": 1470,
+      "versionNonce": 35328377,
       "isDeleted": false,
       "boundElements": [
         {
@@ -168,7 +168,7 @@
           "id": "afEXcvEVPl2Zh1N8FwAMC"
         }
       ],
-      "updated": 1731488370818,
+      "updated": 1732010077823,
       "link": null,
       "locked": false
     },
@@ -192,11 +192,11 @@
       "index": "a3",
       "roundness": null,
       "seed": 565718209,
-      "version": 1331,
-      "versionNonce": 808220353,
+      "version": 1333,
+      "versionNonce": 234069655,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488370818,
+      "updated": 1732010077823,
       "link": null,
       "locked": false,
       "text": "name: my-service\nnamespace: default",
@@ -232,8 +232,8 @@
         "type": 3
       },
       "seed": 793442401,
-      "version": 1169,
-      "versionNonce": 1406269089,
+      "version": 1171,
+      "versionNonce": 864844377,
       "isDeleted": false,
       "boundElements": [
         {
@@ -241,7 +241,7 @@
           "id": "C8WA_sJjFC_O0L3GFR8-E"
         }
       ],
-      "updated": 1731488370818,
+      "updated": 1732010077823,
       "link": null,
       "locked": false
     },
@@ -265,11 +265,11 @@
       "index": "a7",
       "roundness": null,
       "seed": 451888193,
-      "version": 991,
-      "versionNonce": 175929985,
+      "version": 993,
+      "versionNonce": 1968288695,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488370818,
+      "updated": 1732010077823,
       "link": null,
       "locked": false,
       "text": "labels:\n  app.kubernetes.io/name: myApp",
@@ -305,8 +305,8 @@
         "type": 3
       },
       "seed": 1205802017,
-      "version": 929,
-      "versionNonce": 73403393,
+      "version": 931,
+      "versionNonce": 144557881,
       "isDeleted": false,
       "boundElements": [
         {
@@ -318,7 +318,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731489029255,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -342,11 +342,11 @@
       "index": "a9",
       "roundness": null,
       "seed": 168421377,
-      "version": 851,
-      "versionNonce": 1877904961,
+      "version": 853,
+      "versionNonce": 779101399,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488370818,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "annotations:\n  service.kubernetes.io/load-balancer-type: internet",
@@ -382,8 +382,8 @@
         "type": 3
       },
       "seed": 191840225,
-      "version": 945,
-      "versionNonce": 1119668737,
+      "version": 949,
+      "versionNonce": 1269987353,
       "isDeleted": false,
       "boundElements": [
         {
@@ -395,7 +395,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731488069100,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -419,11 +419,11 @@
       "index": "aB",
       "roundness": null,
       "seed": 169778113,
-      "version": 662,
-      "versionNonce": 1778202063,
+      "version": 664,
+      "versionNonce": 1491300855,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731487361995,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "spec:",
@@ -459,8 +459,8 @@
         "type": 3
       },
       "seed": 1798868705,
-      "version": 874,
-      "versionNonce": 1761055873,
+      "version": 876,
+      "versionNonce": 784207097,
       "isDeleted": false,
       "boundElements": [
         {
@@ -472,7 +472,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731488398499,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -496,11 +496,11 @@
       "index": "aJ",
       "roundness": null,
       "seed": 1642465985,
-      "version": 717,
-      "versionNonce": 150166625,
+      "version": 719,
+      "versionNonce": 766515991,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488398499,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "status:",
@@ -536,8 +536,8 @@
         "type": 3
       },
       "seed": 1094257313,
-      "version": 642,
-      "versionNonce": 1578777121,
+      "version": 644,
+      "versionNonce": 1497630169,
       "isDeleted": false,
       "boundElements": [
         {
@@ -545,7 +545,7 @@
           "id": "aU5-40Xqm1LhFqjBTmr2R"
         }
       ],
-      "updated": 1731487361995,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -569,11 +569,11 @@
       "index": "aL",
       "roundness": null,
       "seed": 1642139265,
-      "version": 482,
-      "versionNonce": 1398191215,
+      "version": 484,
+      "versionNonce": 1363845175,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731487361995,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "apiVersion: v1",
@@ -609,8 +609,8 @@
         "type": 3
       },
       "seed": 1520277089,
-      "version": 729,
-      "versionNonce": 1760900737,
+      "version": 731,
+      "versionNonce": 911729337,
       "isDeleted": false,
       "boundElements": [
         {
@@ -622,7 +622,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731488386556,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -646,11 +646,11 @@
       "index": "aN",
       "roundness": null,
       "seed": 1044259393,
-      "version": 468,
-      "versionNonce": 1022148193,
+      "version": 470,
+      "versionNonce": 1704427863,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488386556,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "metadata:",
@@ -686,8 +686,8 @@
         "type": 3
       },
       "seed": 430060065,
-      "version": 1095,
-      "versionNonce": 591327312,
+      "version": 1097,
+      "versionNonce": 43852697,
       "isDeleted": false,
       "boundElements": [
         {
@@ -695,7 +695,7 @@
           "id": "V6wpzgPj3hU55Ik6uiJja"
         }
       ],
-      "updated": 1731903153976,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -719,11 +719,11 @@
       "index": "aP",
       "roundness": null,
       "seed": 834225665,
-      "version": 1030,
-      "versionNonce": 1799270913,
+      "version": 1032,
+      "versionNonce": 1542143607,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488370818,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": " finalizers:\n - service.kubernetes.io/clean-up",
@@ -759,8 +759,8 @@
         "type": 3
       },
       "seed": 25353697,
-      "version": 418,
-      "versionNonce": 337871297,
+      "version": 420,
+      "versionNonce": 440879225,
       "isDeleted": false,
       "boundElements": [
         {
@@ -768,7 +768,7 @@
           "id": "aJqRC0U0c-_n7TVvh9d6j"
         }
       ],
-      "updated": 1731487361995,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -792,11 +792,11 @@
       "index": "aR",
       "roundness": null,
       "seed": 2014214593,
-      "version": 358,
-      "versionNonce": 1394554575,
+      "version": 360,
+      "versionNonce": 118118295,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731487361995,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "kind: Service",
@@ -832,8 +832,8 @@
         "type": 3
       },
       "seed": 1987811745,
-      "version": 1156,
-      "versionNonce": 1065011681,
+      "version": 1158,
+      "versionNonce": 119132505,
       "isDeleted": false,
       "boundElements": [
         {
@@ -841,7 +841,7 @@
           "id": "rxekYhmDXG5IWv60r5Hgb"
         }
       ],
-      "updated": 1731488370818,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -865,11 +865,11 @@
       "index": "aT",
       "roundness": null,
       "seed": 234470785,
-      "version": 1099,
-      "versionNonce": 136897985,
+      "version": 1101,
+      "versionNonce": 1831423159,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488370818,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "creationTimestamp: \"2024-10-30T11:03:56Z\"",
@@ -905,8 +905,8 @@
         "type": 3
       },
       "seed": 2110285153,
-      "version": 1231,
-      "versionNonce": 2117952688,
+      "version": 1233,
+      "versionNonce": 1315454521,
       "isDeleted": false,
       "boundElements": [
         {
@@ -918,7 +918,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731903158176,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -942,11 +942,11 @@
       "index": "aV",
       "roundness": null,
       "seed": 1899434305,
-      "version": 1177,
-      "versionNonce": 325659009,
+      "version": 1179,
+      "versionNonce": 1508679127,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731488370818,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "deletionTimestamp: \"2024-11-12T08:24:35Z\"",
@@ -982,11 +982,11 @@
         "type": 2
       },
       "seed": 2107982113,
-      "version": 1017,
-      "versionNonce": 938579536,
+      "version": 1019,
+      "versionNonce": 2132152089,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902936394,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "points": [
@@ -1038,8 +1038,8 @@
         "type": 3
       },
       "seed": 1619162369,
-      "version": 875,
-      "versionNonce": 1111319120,
+      "version": 877,
+      "versionNonce": 812174071,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1051,7 +1051,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910012574,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1075,11 +1075,11 @@
       "index": "aY",
       "roundness": null,
       "seed": 2102275297,
-      "version": 690,
-      "versionNonce": 343714480,
+      "version": 692,
+      "versionNonce": 2140587001,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910012574,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "allocateLoadBalancerNodePorts: true",
@@ -1115,8 +1115,8 @@
         "type": 3
       },
       "seed": 462940353,
-      "version": 972,
-      "versionNonce": 1478529712,
+      "version": 974,
+      "versionNonce": 2099401751,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1128,7 +1128,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909982642,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1152,11 +1152,11 @@
       "index": "aa",
       "roundness": null,
       "seed": 1694443681,
-      "version": 758,
-      "versionNonce": 570352816,
+      "version": 760,
+      "versionNonce": 468573401,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909988938,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "clusterIP: “” / \"None\" / \"x.x.x.x\"",
@@ -1192,8 +1192,8 @@
         "type": 3
       },
       "seed": 590572673,
-      "version": 994,
-      "versionNonce": 341849680,
+      "version": 996,
+      "versionNonce": 1208858935,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1205,7 +1205,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910251798,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1229,11 +1229,11 @@
       "index": "ac",
       "roundness": null,
       "seed": 1039414369,
-      "version": 791,
-      "versionNonce": 765783120,
+      "version": 793,
+      "versionNonce": 1403967929,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910251798,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "clusterIPs: \n- x.x.x.x",
@@ -1269,8 +1269,8 @@
         "type": 3
       },
       "seed": 2031157313,
-      "version": 1077,
-      "versionNonce": 1198942800,
+      "version": 1080,
+      "versionNonce": 646937175,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1278,11 +1278,11 @@
           "id": "amah4LP7xFL0XNlxvNZxA"
         },
         {
-          "id": "DR_Wx0cMSH9RYVzyq1MeQ",
+          "id": "hTK8-eKfxnG-TmwNfCfG3",
           "type": "arrow"
         }
       ],
-      "updated": 1731910026974,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1306,11 +1306,11 @@
       "index": "ae",
       "roundness": null,
       "seed": 1919504417,
-      "version": 894,
-      "versionNonce": 1631068848,
+      "version": 896,
+      "versionNonce": 1744648857,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910026974,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "externalIPs:\n- x.x.x.x",
@@ -1329,8 +1329,8 @@
       "type": "rectangle",
       "x": 335.2503791135515,
       "y": 23.518827924880938,
-      "width": 351.43489583333326,
-      "height": 43.640625,
+      "width": 401.95833333333326,
+      "height": 40.03125,
       "angle": 0,
       "strokeColor": "#e03131",
       "backgroundColor": "transparent",
@@ -1346,8 +1346,8 @@
         "type": 3
       },
       "seed": 1609344001,
-      "version": 1129,
-      "versionNonce": 1173847120,
+      "version": 1224,
+      "versionNonce": 226236279,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1359,7 +1359,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910030461,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1367,8 +1367,8 @@
       "id": "ARXuffGNgtMlLBXLqTUKu",
       "type": "text",
       "x": 340.2503791135515,
-      "y": 32.83914042488094,
-      "width": 338.539794921875,
+      "y": 31.034452924880938,
+      "width": 379.15972900390625,
       "height": 25,
       "angle": 0,
       "strokeColor": "#e03131",
@@ -1383,21 +1383,21 @@
       "index": "ag",
       "roundness": null,
       "seed": 228228065,
-      "version": 966,
-      "versionNonce": 1418277040,
+      "version": 1053,
+      "versionNonce": 697073529,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910030461,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
-      "text": "externalName: external.example.com",
+      "text": "externalName: my.database.example.com",
       "rawText": "externalName: external.example.com",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "Y4KaDGPzlAldEH3TEK3dm",
-      "originalText": "externalName: external.example.com",
+      "originalText": "externalName: my.database.example.com",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -1423,8 +1423,8 @@
         "type": 3
       },
       "seed": 461526977,
-      "version": 1258,
-      "versionNonce": 2044100272,
+      "version": 1260,
+      "versionNonce": 1662521495,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1436,7 +1436,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731914096830,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1460,11 +1460,11 @@
       "index": "ai",
       "roundness": null,
       "seed": 2076424097,
-      "version": 1023,
-      "versionNonce": 730944080,
+      "version": 1025,
+      "versionNonce": 111159385,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "externalTrafficPolicy: Cluster / Local",
@@ -1500,8 +1500,8 @@
         "type": 3
       },
       "seed": 814619521,
-      "version": 1306,
-      "versionNonce": 1139226192,
+      "version": 1308,
+      "versionNonce": 1360520631,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1513,7 +1513,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909616750,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1537,11 +1537,11 @@
       "index": "ak",
       "roundness": null,
       "seed": 1243677537,
-      "version": 1085,
-      "versionNonce": 2018674768,
+      "version": 1087,
+      "versionNonce": 1493939513,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "healthCheckNodePort: 12345",
@@ -1577,8 +1577,8 @@
         "type": 3
       },
       "seed": 617344833,
-      "version": 1539,
-      "versionNonce": 962105424,
+      "version": 1541,
+      "versionNonce": 1453332183,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1590,7 +1590,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909994616,
+      "updated": 1732010077824,
       "link": null,
       "locked": false
     },
@@ -1614,11 +1614,11 @@
       "index": "am",
       "roundness": null,
       "seed": 1726897953,
-      "version": 1255,
-      "versionNonce": 1833403568,
+      "version": 1257,
+      "versionNonce": 1949476377,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909995785,
+      "updated": 1732010077824,
       "link": null,
       "locked": false,
       "text": "internalTrafficPolicy: Cluster / Local",
@@ -1654,8 +1654,8 @@
         "type": 3
       },
       "seed": 1311676207,
-      "version": 1732,
-      "versionNonce": 1231517872,
+      "version": 1734,
+      "versionNonce": 440738807,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1667,7 +1667,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -1691,11 +1691,11 @@
       "index": "ao",
       "roundness": null,
       "seed": 1506924879,
-      "version": 1367,
-      "versionNonce": 1843967056,
+      "version": 1369,
+      "versionNonce": 1929935609,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "ipFamilies:\n- IPv4 / IPv6",
@@ -1731,8 +1731,8 @@
         "type": 3
       },
       "seed": 1198875457,
-      "version": 1767,
-      "versionNonce": 424993456,
+      "version": 1769,
+      "versionNonce": 2081131799,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1744,7 +1744,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -1768,11 +1768,11 @@
       "index": "aq",
       "roundness": null,
       "seed": 1548309281,
-      "version": 1432,
-      "versionNonce": 2104339024,
+      "version": 1434,
+      "versionNonce": 1175499737,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "ipFamilyPolicy: SingleStack / PreferDualStack / RequiredDualStack",
@@ -1808,8 +1808,8 @@
         "type": 3
       },
       "seed": 1125611919,
-      "version": 1631,
-      "versionNonce": 1628923056,
+      "version": 1633,
+      "versionNonce": 1734857271,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1821,7 +1821,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909773485,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -1845,11 +1845,11 @@
       "index": "as",
       "roundness": null,
       "seed": 1479503791,
-      "version": 1404,
-      "versionNonce": 1735293520,
+      "version": 1406,
+      "versionNonce": 22991033,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909763893,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "loadBalancerClass: xxx",
@@ -1885,8 +1885,8 @@
         "type": 3
       },
       "seed": 85172705,
-      "version": 1653,
-      "versionNonce": 666776656,
+      "version": 1655,
+      "versionNonce": 1698591575,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1898,7 +1898,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909776544,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -1922,11 +1922,11 @@
       "index": "au",
       "roundness": null,
       "seed": 1424408001,
-      "version": 1436,
-      "versionNonce": 1545819728,
+      "version": 1438,
+      "versionNonce": 1788236185,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "loadBalancerIP: x.x.x.x",
@@ -1962,8 +1962,8 @@
         "type": 3
       },
       "seed": 1929211759,
-      "version": 1763,
-      "versionNonce": 88564400,
+      "version": 1765,
+      "versionNonce": 1843654775,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1975,7 +1975,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909779529,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -1999,11 +1999,11 @@
       "index": "aw",
       "roundness": null,
       "seed": 1738254735,
-      "version": 1437,
-      "versionNonce": 1342442576,
+      "version": 1439,
+      "versionNonce": 1189787257,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "loadBalancerSourceRanges:\n- xxx",
@@ -2039,8 +2039,8 @@
         "type": 3
       },
       "seed": 1925270767,
-      "version": 1720,
-      "versionNonce": 741739184,
+      "version": 1722,
+      "versionNonce": 2065484183,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2052,7 +2052,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2076,11 +2076,11 @@
       "index": "ay",
       "roundness": null,
       "seed": 1309136655,
-      "version": 1427,
-      "versionNonce": 845021776,
+      "version": 1429,
+      "versionNonce": 1763671897,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "ports:",
@@ -2116,8 +2116,8 @@
         "type": 3
       },
       "seed": 1250782127,
-      "version": 2103,
-      "versionNonce": 1746846113,
+      "version": 2105,
+      "versionNonce": 1511882423,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2133,7 +2133,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731663774410,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2157,11 +2157,11 @@
       "index": "b00",
       "roundness": null,
       "seed": 2086804943,
-      "version": 1820,
-      "versionNonce": 1843185455,
+      "version": 1822,
+      "versionNonce": 2139630649,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731500535598,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "- appProtocol: xxx\n  name: http\n  nodeport: 12345\n  port: 80\n  protocol: TCP / UDP / SCTP\n  targetPort: 80",
@@ -2195,11 +2195,11 @@
       "index": "b01",
       "roundness": null,
       "seed": 1059410608,
-      "version": 1465,
-      "versionNonce": 1842778704,
+      "version": 1467,
+      "versionNonce": 1032490967,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902862476,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -2251,8 +2251,8 @@
         "type": 3
       },
       "seed": 1260736321,
-      "version": 1882,
-      "versionNonce": 142685360,
+      "version": 1884,
+      "versionNonce": 570965273,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2264,7 +2264,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2288,11 +2288,11 @@
       "index": "b03",
       "roundness": null,
       "seed": 991674145,
-      "version": 1586,
-      "versionNonce": 1644771408,
+      "version": 1588,
+      "versionNonce": 259554551,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "publishNotReadyAddresses: false",
@@ -2328,8 +2328,8 @@
         "type": 3
       },
       "seed": 1973314031,
-      "version": 2057,
-      "versionNonce": 1171726000,
+      "version": 2059,
+      "versionNonce": 538128889,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2341,7 +2341,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2365,11 +2365,11 @@
       "index": "b05",
       "roundness": null,
       "seed": 2121944079,
-      "version": 1690,
-      "versionNonce": 584953424,
+      "version": 1692,
+      "versionNonce": 57394711,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "sekector:\n  xxx: xxx",
@@ -2405,8 +2405,8 @@
         "type": 3
       },
       "seed": 1522952495,
-      "version": 2156,
-      "versionNonce": 732969136,
+      "version": 2158,
+      "versionNonce": 246188761,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2418,7 +2418,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909968587,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2442,11 +2442,11 @@
       "index": "b07",
       "roundness": null,
       "seed": 1738500943,
-      "version": 1761,
-      "versionNonce": 1318554192,
+      "version": 1763,
+      "versionNonce": 1750657847,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909966317,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "sessionAffinity: ClusterIp / None",
@@ -2482,8 +2482,8 @@
         "type": 3
       },
       "seed": 983693039,
-      "version": 2257,
-      "versionNonce": 1360063056,
+      "version": 2259,
+      "versionNonce": 375900089,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2495,7 +2495,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909968587,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2519,11 +2519,11 @@
       "index": "b09",
       "roundness": null,
       "seed": 1749238031,
-      "version": 1911,
-      "versionNonce": 1727654992,
+      "version": 1913,
+      "versionNonce": 983854167,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909966317,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "sessionAffinityConfig:",
@@ -2559,8 +2559,8 @@
         "type": 3
       },
       "seed": 694097057,
-      "version": 2294,
-      "versionNonce": 1878971984,
+      "version": 2296,
+      "versionNonce": 23619737,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2572,7 +2572,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910092066,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2596,11 +2596,11 @@
       "index": "b0B",
       "roundness": null,
       "seed": 750114945,
-      "version": 1940,
-      "versionNonce": 530332336,
+      "version": 1942,
+      "versionNonce": 1981991287,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910078602,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "trafficDistribution: xxx",
@@ -2636,8 +2636,8 @@
         "type": 3
       },
       "seed": 1390551745,
-      "version": 2602,
-      "versionNonce": 398083760,
+      "version": 2604,
+      "versionNonce": 157412729,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2649,7 +2649,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2673,11 +2673,11 @@
       "index": "b0D",
       "roundness": null,
       "seed": 1794253473,
-      "version": 2205,
-      "versionNonce": 1839990352,
+      "version": 2207,
+      "versionNonce": 672694935,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731902780306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "type: ClusterIp / NodePort / LoadBalancer / ExternalName",
@@ -2713,8 +2713,8 @@
         "type": 3
       },
       "seed": 1098300993,
-      "version": 2641,
-      "versionNonce": 881173168,
+      "version": 2643,
+      "versionNonce": 1704449625,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2730,7 +2730,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909968587,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2754,11 +2754,11 @@
       "index": "b0F",
       "roundness": null,
       "seed": 1667714593,
-      "version": 2409,
-      "versionNonce": 1126141520,
+      "version": 2411,
+      "versionNonce": 1094326199,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909966317,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "clientIP:\n  timeoutSeconds: 10800",
@@ -2794,8 +2794,8 @@
         "type": 2
       },
       "seed": 234466639,
-      "version": 2124,
-      "versionNonce": 1101806160,
+      "version": 2126,
+      "versionNonce": 417178425,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2803,7 +2803,7 @@
           "id": "tLot8JhZVFlF5xKjW_NB6"
         }
       ],
-      "updated": 1731909966317,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -2853,11 +2853,11 @@
       "index": "b0GV",
       "roundness": null,
       "seed": 641961648,
-      "version": 3,
-      "versionNonce": 170642608,
+      "version": 5,
+      "versionNonce": 665585879,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731902731750,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "会话亲和",
@@ -2874,9 +2874,9 @@
       "id": "DDaklX1I-Z2fbXNM0hpFH",
       "type": "arrow",
       "x": 91.03544294452968,
-      "y": 127.0851968197269,
-      "width": 211.24454889604976,
-      "height": 7.533584961969851,
+      "y": 127.09103996553701,
+      "width": 210.83829889604976,
+      "height": 8.153332081873614,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
@@ -2892,11 +2892,11 @@
         "type": 2
       },
       "seed": 2110480560,
-      "version": 612,
-      "versionNonce": 1655719600,
+      "version": 691,
+      "versionNonce": 2140591129,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909718957,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -2905,8 +2905,8 @@
           0
         ],
         [
-          211.24454889604976,
-          7.533584961969851
+          210.83829889604976,
+          8.153332081873614
         ]
       ],
       "lastCommittedPoint": null,
@@ -2948,8 +2948,8 @@
         "type": 3
       },
       "seed": 1582676943,
-      "version": 1683,
-      "versionNonce": 1003791440,
+      "version": 1685,
+      "versionNonce": 151180791,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2961,7 +2961,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910579360,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -2985,11 +2985,11 @@
       "index": "b0J",
       "roundness": null,
       "seed": 1860921839,
-      "version": 1505,
-      "versionNonce": 281140912,
+      "version": 1507,
+      "versionNonce": 498526457,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910579360,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "conditions:",
@@ -3025,8 +3025,8 @@
         "type": 3
       },
       "seed": 1757246145,
-      "version": 1776,
-      "versionNonce": 140221008,
+      "version": 1778,
+      "versionNonce": 1816330007,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3042,7 +3042,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910579360,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -3066,11 +3066,11 @@
       "index": "b0L",
       "roundness": null,
       "seed": 1222865569,
-      "version": 1589,
-      "versionNonce": 343050416,
+      "version": 1591,
+      "versionNonce": 750871001,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910579360,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "loadBalancer:",
@@ -3106,8 +3106,8 @@
         "type": 3
       },
       "seed": 1204524897,
-      "version": 2518,
-      "versionNonce": 1867489968,
+      "version": 2520,
+      "versionNonce": 65078327,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3127,7 +3127,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910575946,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -3151,11 +3151,11 @@
       "index": "b0N",
       "roundness": null,
       "seed": 939787073,
-      "version": 2439,
-      "versionNonce": 1688718512,
+      "version": 2441,
+      "versionNonce": 1774829241,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910575946,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "ingress:\n- hostname: xxx\n  ip: x.x.x.x\n  ipMode: VIP / Proxy\n  ports:\n  - error: xxx\n    port: 80\n    protocol: TCP",
@@ -3191,11 +3191,11 @@
         "type": 2
       },
       "seed": 868278305,
-      "version": 1214,
-      "versionNonce": 292206256,
+      "version": 1216,
+      "versionNonce": 1069638999,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910575946,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3247,11 +3247,11 @@
         "type": 2
       },
       "seed": 1685240943,
-      "version": 803,
-      "versionNonce": 1221221040,
+      "version": 805,
+      "versionNonce": 594771865,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731903258236,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3303,11 +3303,11 @@
         "type": 2
       },
       "seed": 1228899279,
-      "version": 518,
-      "versionNonce": 1003050672,
+      "version": 520,
+      "versionNonce": 523805303,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731903222109,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3357,11 +3357,11 @@
       "index": "b0e",
       "roundness": null,
       "seed": 1472976079,
-      "version": 196,
-      "versionNonce": 86414512,
+      "version": 198,
+      "versionNonce": 133309561,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731903222109,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3396,8 +3396,8 @@
       "type": "arrow",
       "x": 517.266082246807,
       "y": -290.54217319209374,
-      "width": 0.6855823594192998,
-      "height": 41.47634135964563,
+      "width": 1.026598680550478,
+      "height": 50.37227395095874,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffec99",
@@ -3411,11 +3411,11 @@
       "index": "b0h",
       "roundness": null,
       "seed": 1595508001,
-      "version": 1450,
-      "versionNonce": 2130483280,
+      "version": 1646,
+      "versionNonce": 1124809623,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910012575,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3424,21 +3424,21 @@
           0
         ],
         [
-          -0.6855823594192998,
-          -41.47634135964563
+          -1.026598680550478,
+          -50.37227395095874
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "mt4JrGUofY4D-4XKz7uT_",
-        "focus": -0.058708906207751786,
+        "focus": -0.05818614407498131,
         "gap": 1,
         "fixedPoint": null
       },
       "endBinding": {
         "elementId": "v9uE2B18ccEppRM1DU5dZ",
-        "focus": 0.28164198158050646,
-        "gap": 10.519956028813112,
+        "focus": 0.25313434452897493,
+        "gap": 7.13671875,
         "fixedPoint": null
       },
       "startArrowhead": null,
@@ -3465,11 +3465,11 @@
       "index": "b0l",
       "roundness": null,
       "seed": 499814689,
-      "version": 1335,
-      "versionNonce": 1635140784,
+      "version": 1337,
+      "versionNonce": 856239449,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909978777,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3502,10 +3502,10 @@
     {
       "id": "ImhL7MXwJckfJAlNit6wC",
       "type": "arrow",
-      "x": 690.9118266931907,
-      "y": 44.48883990013758,
-      "width": 347.5686848958344,
-      "height": 302.4617527303105,
+      "x": 741.5899898712254,
+      "y": 35.21303067197158,
+      "width": 288.0191682449805,
+      "height": 279.7197632081115,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffec99",
@@ -3519,11 +3519,11 @@
       "index": "b0v",
       "roundness": null,
       "seed": 1403212527,
-      "version": 731,
-      "versionNonce": 1076873808,
+      "version": 1259,
+      "versionNonce": 1064153271,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910034306,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3532,21 +3532,21 @@
           0
         ],
         [
-          347.5686848958344,
-          -302.4617527303105
+          288.0191682449805,
+          -279.7197632081115
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "Y4KaDGPzlAldEH3TEK3dm",
-        "focus": 0.8913751132207022,
-        "gap": 4.226551746305972,
+        "focus": 0.8880965221091145,
+        "gap": 4.381277424340624,
         "fixedPoint": null
       },
       "endBinding": {
         "elementId": "wx5uXZpomPXBd-OMGVizT",
-        "focus": 0.6943507468279031,
-        "gap": 4.339584027180763,
+        "focus": 0.803982866664231,
+        "gap": 12.671875,
         "fixedPoint": null
       },
       "startArrowhead": null,
@@ -3558,8 +3558,8 @@
       "type": "arrow",
       "x": 721.3232850265251,
       "y": 93.37754210707251,
-      "width": 316.435546875,
-      "height": 195.19293547628132,
+      "width": 316.3994140625,
+      "height": 192.9407189325424,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffec99",
@@ -3573,11 +3573,11 @@
       "index": "b0z",
       "roundness": null,
       "seed": 439788687,
-      "version": 530,
-      "versionNonce": 1364942512,
+      "version": 534,
+      "versionNonce": 2081167929,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909740022,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3586,8 +3586,8 @@
           0
         ],
         [
-          316.435546875,
-          -195.19293547628132
+          316.3994140625,
+          -192.9407189325424
         ]
       ],
       "lastCommittedPoint": null,
@@ -3627,11 +3627,11 @@
       "index": "b12",
       "roundness": null,
       "seed": 156277711,
-      "version": 601,
-      "versionNonce": 1034284720,
+      "version": 603,
+      "versionNonce": 772047319,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910244655,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3681,8 +3681,8 @@
       "index": "b1A",
       "roundness": null,
       "seed": 1787531265,
-      "version": 348,
-      "versionNonce": 2113965633,
+      "version": 350,
+      "versionNonce": 64908057,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3690,7 +3690,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731663768501,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "Service 对外暴露的端口",
@@ -3723,8 +3723,8 @@
       "index": "b1B",
       "roundness": null,
       "seed": 1625117217,
-      "version": 388,
-      "versionNonce": 1090085569,
+      "version": 390,
+      "versionNonce": 2145660663,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3732,7 +3732,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731663729527,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "端口应用协议，仅作展示",
@@ -3750,7 +3750,7 @@
       "type": "text",
       "x": 1057.4224976730095,
       "y": 629.7262792129978,
-      "width": 496.41820393495607,
+      "width": 460.919677734375,
       "height": 25.06049149338374,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -3765,8 +3765,8 @@
       "index": "b1D",
       "roundness": null,
       "seed": 157790255,
-      "version": 502,
-      "versionNonce": 304813377,
+      "version": 592,
+      "versionNonce": 49520633,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3774,16 +3774,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731663756818,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
-      "text": "端口名称必须唯一，且与 Endpoint Port 名称字段匹配",
+      "text": "端口名称必须唯一，多个端口时必须指定不同的名称",
       "fontSize": 20.048393194706993,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "端口名称必须唯一，且与 Endpoint Port 名称字段匹配",
+      "originalText": "端口名称必须唯一，多个端口时必须指定不同的名称",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -3807,8 +3807,8 @@
       "index": "b1E",
       "roundness": null,
       "seed": 821507311,
-      "version": 412,
-      "versionNonce": 1131172783,
+      "version": 414,
+      "versionNonce": 261175319,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3816,7 +3816,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731663761937,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "NodePort 和 LoadBalancer 类型时，Service 在节点上暴露的端口",
@@ -3849,8 +3849,8 @@
       "index": "b1F",
       "roundness": null,
       "seed": 405850703,
-      "version": 511,
-      "versionNonce": 2103351393,
+      "version": 513,
+      "versionNonce": 1464809689,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3858,7 +3858,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731663775571,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "端口的 IP 协议",
@@ -3891,11 +3891,11 @@
       "index": "b1f",
       "roundness": null,
       "seed": 1154789217,
-      "version": 197,
-      "versionNonce": 2008692912,
+      "version": 199,
+      "versionNonce": 1929387319,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910575946,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3945,11 +3945,11 @@
       "index": "b1j",
       "roundness": null,
       "seed": 652225537,
-      "version": 89,
-      "versionNonce": 48238768,
+      "version": 91,
+      "versionNonce": 1384428985,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910575946,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -3999,11 +3999,11 @@
       "index": "b1k",
       "roundness": null,
       "seed": 2068310625,
-      "version": 191,
-      "versionNonce": 977297584,
+      "version": 193,
+      "versionNonce": 227892823,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910575946,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4053,11 +4053,11 @@
       "index": "b1n",
       "roundness": null,
       "seed": 2071631151,
-      "version": 86,
-      "versionNonce": 121148592,
+      "version": 88,
+      "versionNonce": 1203213977,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731903047870,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4102,11 +4102,11 @@
       "index": "b1o",
       "roundness": null,
       "seed": 952060143,
-      "version": 94,
-      "versionNonce": 318981200,
+      "version": 96,
+      "versionNonce": 1646623607,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731903045804,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4151,11 +4151,11 @@
       "index": "b1p",
       "roundness": null,
       "seed": 949917327,
-      "version": 108,
-      "versionNonce": 1853490256,
+      "version": 110,
+      "versionNonce": 1503353721,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731903072775,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4185,8 +4185,8 @@
       "type": "arrow",
       "x": -554.0545361540328,
       "y": 494.68521001141187,
-      "width": 134.04626978916554,
-      "height": 112.26530668062026,
+      "width": 133.51501978916554,
+      "height": 125.49575530608502,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffffff",
@@ -4200,11 +4200,11 @@
       "index": "b1r",
       "roundness": null,
       "seed": 2025698831,
-      "version": 758,
-      "versionNonce": 1825000528,
+      "version": 763,
+      "versionNonce": 1899772183,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731929778261,
+      "updated": 1732010198901,
       "link": null,
       "locked": false,
       "points": [
@@ -4213,8 +4213,8 @@
           0
         ],
         [
-          134.04626978916554,
-          112.26530668062026
+          133.51501978916554,
+          125.49575530608502
         ]
       ],
       "lastCommittedPoint": null,
@@ -4249,11 +4249,11 @@
       "index": "b1s",
       "roundness": null,
       "seed": 2106701487,
-      "version": 632,
-      "versionNonce": 1596157520,
+      "version": 634,
+      "versionNonce": 141788249,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731929691849,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4303,11 +4303,11 @@
       "index": "b1t",
       "roundness": null,
       "seed": 908313871,
-      "version": 360,
-      "versionNonce": 1759699536,
+      "version": 362,
+      "versionNonce": 230181303,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910251798,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4338,66 +4338,12 @@
       "elbowed": false
     },
     {
-      "id": "DR_Wx0cMSH9RYVzyq1MeQ",
-      "type": "arrow",
-      "x": 477.1788622834672,
-      "y": -43.43101824911298,
-      "width": 75.52174249096709,
-      "height": 10.492586186200818,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b1u",
-      "roundness": null,
-      "seed": 1998839023,
-      "version": 449,
-      "versionNonce": 1376174672,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1731910027798,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          75.52174249096709,
-          -10.492586186200818
-        ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "4UTS4FDxMgK4cr0UobEho",
-        "focus": -0.1370634250330434,
-        "gap": 7.167740982415694,
-        "fixedPoint": null
-      },
-      "endBinding": {
-        "elementId": "VZBP-vukTaJzXAyxbzk3q",
-        "focus": -0.46889117170594546,
-        "gap": 8.111936457738693,
-        "fixedPoint": null
-      },
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
-    },
-    {
       "id": "qAGFAznEOGUm6Ftx7TNq2",
       "type": "arrow",
       "x": 657.2181525510525,
       "y": 172.31334575135264,
       "width": 379.31971650265336,
-      "height": 124.54760165139605,
+      "height": 120.11257552176106,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffffff",
@@ -4411,11 +4357,11 @@
       "index": "b1v",
       "roundness": null,
       "seed": 1340857167,
-      "version": 548,
-      "versionNonce": 1037081264,
+      "version": 551,
+      "versionNonce": 1282361,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909740022,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4425,7 +4371,7 @@
         ],
         [
           379.31971650265336,
-          -124.54760165139605
+          -120.11257552176106
         ]
       ],
       "lastCommittedPoint": null,
@@ -4465,11 +4411,11 @@
       "index": "b1w",
       "roundness": null,
       "seed": 2098472961,
-      "version": 316,
-      "versionNonce": 511225936,
+      "version": 318,
+      "versionNonce": 1771305687,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731930104750,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4519,11 +4465,11 @@
       "index": "b1x",
       "roundness": null,
       "seed": 427773807,
-      "version": 272,
-      "versionNonce": 1522926256,
+      "version": 274,
+      "versionNonce": 635372057,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731930110412,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4573,11 +4519,11 @@
       "index": "b1y",
       "roundness": null,
       "seed": 741316847,
-      "version": 330,
-      "versionNonce": 406769840,
+      "version": 332,
+      "versionNonce": 1830586359,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910449086,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4627,11 +4573,11 @@
       "index": "b1z",
       "roundness": null,
       "seed": 1364419841,
-      "version": 125,
-      "versionNonce": 1969481392,
+      "version": 127,
+      "versionNonce": 1724471033,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909951571,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4681,11 +4627,11 @@
       "index": "b20",
       "roundness": null,
       "seed": 2123208239,
-      "version": 552,
-      "versionNonce": 1277520048,
+      "version": 554,
+      "versionNonce": 1180070167,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909951571,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4735,11 +4681,11 @@
       "index": "b21",
       "roundness": null,
       "seed": 435717121,
-      "version": 82,
-      "versionNonce": 1071048417,
+      "version": 84,
+      "versionNonce": 1163268057,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731663729527,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4769,8 +4715,8 @@
       "type": "arrow",
       "x": 835.4347216584672,
       "y": 648.2711475114119,
-      "width": 211.71484375,
-      "height": 8.9609375,
+      "width": 211.71484375000023,
+      "height": 9.16242364732932,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffffff",
@@ -4784,11 +4730,11 @@
       "index": "b22",
       "roundness": null,
       "seed": 849172801,
-      "version": 62,
-      "versionNonce": 233630049,
+      "version": 151,
+      "versionNonce": 1857435191,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731663756818,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4797,8 +4743,8 @@
           0
         ],
         [
-          211.71484375,
-          -8.9609375
+          211.71484375000023,
+          -9.16242364732932
         ]
       ],
       "lastCommittedPoint": null,
@@ -4833,11 +4779,11 @@
       "index": "b23",
       "roundness": null,
       "seed": 256211201,
-      "version": 95,
-      "versionNonce": 1227097551,
+      "version": 97,
+      "versionNonce": 664317113,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731663761937,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4882,11 +4828,11 @@
       "index": "b24",
       "roundness": null,
       "seed": 657947823,
-      "version": 55,
-      "versionNonce": 490570337,
+      "version": 57,
+      "versionNonce": 1025529687,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731663768501,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4931,11 +4877,11 @@
       "index": "b25",
       "roundness": null,
       "seed": 72795073,
-      "version": 53,
-      "versionNonce": 630121537,
+      "version": 55,
+      "versionNonce": 1697951129,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731663775571,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -4985,11 +4931,11 @@
       "index": "b26",
       "roundness": null,
       "seed": 1765902337,
-      "version": 530,
-      "versionNonce": 95470256,
+      "version": 532,
+      "versionNonce": 938038391,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909720248,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -5019,8 +4965,8 @@
       "type": "arrow",
       "x": 493.2696825959672,
       "y": 813.240847419282,
-      "width": 541.5341796875,
-      "height": 117.11188726342334,
+      "width": 541.4052734375,
+      "height": 115.66226576105714,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffffff",
@@ -5034,11 +4980,11 @@
       "index": "b27",
       "roundness": null,
       "seed": 1093152207,
-      "version": 299,
-      "versionNonce": 1002377904,
+      "version": 303,
+      "versionNonce": 358453881,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909720248,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -5047,8 +4993,8 @@
           0
         ],
         [
-          541.5341796875,
-          117.11188726342334
+          541.4052734375,
+          115.66226576105714
         ]
       ],
       "lastCommittedPoint": null,
@@ -5088,11 +5034,11 @@
       "index": "b28",
       "roundness": null,
       "seed": 1471207247,
-      "version": 720,
-      "versionNonce": 1794129488,
+      "version": 722,
+      "versionNonce": 651537815,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909966318,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -5142,11 +5088,11 @@
       "index": "b29",
       "roundness": null,
       "seed": 1743871055,
-      "version": 850,
-      "versionNonce": 1745656912,
+      "version": 852,
+      "versionNonce": 483842905,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731909966318,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -5196,11 +5142,11 @@
       "index": "b2A",
       "roundness": null,
       "seed": 1073229473,
-      "version": 155,
-      "versionNonce": 1016774320,
+      "version": 157,
+      "versionNonce": 1696195255,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1731910384750,
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -5233,8 +5179,8 @@
     {
       "id": "V94iGlU1fj_8DIoBvsRp0",
       "type": "rectangle",
-      "x": 1042.820095616206,
-      "y": -182.57334781269532,
+      "x": 1042.945095616206,
+      "y": -182.44834781269532,
       "width": 950,
       "height": 146.0546875,
       "angle": 0,
@@ -5252,8 +5198,8 @@
         "type": 3
       },
       "seed": 71300688,
-      "version": 369,
-      "versionNonce": 180895408,
+      "version": 373,
+      "versionNonce": 2079590457,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5265,15 +5211,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910265351,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
     {
       "id": "Z1MqJOa7_qK6PIpSeB8ZI",
       "type": "text",
-      "x": 1047.820095616206,
-      "y": -172.04600406269532,
+      "x": 1047.945095616206,
+      "y": -171.92100406269532,
       "width": 939.4997329711914,
       "height": 125,
       "angle": 0,
@@ -5289,20 +5235,20 @@
       "index": "b2C",
       "roundness": null,
       "seed": 902466224,
-      "version": 229,
-      "versionNonce": 1604647088,
+      "version": 239,
+      "versionNonce": 1935307735,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909743098,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
-      "text": "描述节点分发从外部进来的流量（NodePort、ExternalIPs、LoadBalancerIPs）\n- Local：节点之间的流量由外部负载均衡器负责，流量只会转发到本节点的 Endpoint，\n           而不会做源 IP 的 Masq，没有 Endpoint 的节点会直接被丢弃流量\n- Cluster：默认值，将流量均匀的分发到所有 Endpoint，从集群内发送到 ExternalIPs \n             或 LoadBalancerIps 时始终按照 Cluster 模式，发送到 NodePort 的流量不一定",
+      "text": "描述节点分发从外部进来的流量（NodePort、ExternalIPs、LoadBalancerIPs）\n- Local：节点之间的流量由外部负载均衡器负责，流量只会转发到本节点的 Endpoint，\n           而不会做 SNAT，没有 Endpoint 的节点会直接被丢弃流量\n- Cluster：默认值，将流量均匀的分发到所有 Endpoint，从集群内发送到 ExternalIPs \n             或 LoadBalancerIps 时始终按照 Cluster 模式，发送到 NodePort 的流量不一定",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "V94iGlU1fj_8DIoBvsRp0",
-      "originalText": "描述节点分发从外部进来的流量（NodePort、ExternalIPs、LoadBalancerIPs）\n- Local：节点之间的流量由外部负载均衡器负责，流量只会转发到本节点的 Endpoint，\n           而不会做源 IP 的 Masq，没有 Endpoint 的节点会直接被丢弃流量\n- Cluster：默认值，将流量均匀的分发到所有 Endpoint，从集群内发送到 ExternalIPs \n             或 LoadBalancerIps 时始终按照 Cluster 模式，发送到 NodePort 的流量不一定",
+      "originalText": "描述节点分发从外部进来的流量（NodePort、ExternalIPs、LoadBalancerIPs）\n- Local：节点之间的流量由外部负载均衡器负责，流量只会转发到本节点的 Endpoint，\n           而不会做 SNAT，没有 Endpoint 的节点会直接被丢弃流量\n- Cluster：默认值，将流量均匀的分发到所有 Endpoint，从集群内发送到 ExternalIPs \n             或 LoadBalancerIps 时始终按照 Cluster 模式，发送到 NodePort 的流量不一定",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -5328,8 +5274,8 @@
         "type": 3
       },
       "seed": 1697650768,
-      "version": 484,
-      "versionNonce": 116258896,
+      "version": 486,
+      "versionNonce": 1553504537,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5341,7 +5287,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909720246,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5365,11 +5311,11 @@
       "index": "b2E",
       "roundness": null,
       "seed": 1771317328,
-      "version": 457,
-      "versionNonce": 558396592,
+      "version": 459,
+      "versionNonce": 1236001015,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909720246,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "- Service 关联的 Pod 监听的端口，\n- 不填写时使用 port 的值\n- clusterIP 为 None 是，忽略这个字段",
@@ -5404,8 +5350,8 @@
         "type": 3
       },
       "seed": 515111600,
-      "version": 229,
-      "versionNonce": 2000213168,
+      "version": 231,
+      "versionNonce": 1614286329,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5417,7 +5363,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910384749,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5441,11 +5387,11 @@
       "index": "b2FV",
       "roundness": null,
       "seed": 1028863056,
-      "version": 178,
-      "versionNonce": 305096880,
+      "version": 180,
+      "versionNonce": 1771219479,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910384750,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "- ClusterIP：默认，分配一个集群内 IP（clusterIP 为 None 时，不分配 IP）\n  - 设置 selector 时，Endpoint 就是匹配的 Pod\n  - 未设置时 selector 时，通过匹配同名的 Endpoint 或 EndPointSlice\n- NodePort：基于 clusterIP 构建，在每个节点暴露一个端口，流量路由到与 clusterIP 相同的 Endpoint\n- LoadBalancer：基于 NodePort构建，并创建一个外部负载均衡器，流量路由到与 clusterIP 相同的 Endpoint\n- ExternalName：服务别名为指定的 externalName，其他几个字段不适用",
@@ -5480,11 +5426,11 @@
         "type": 2
       },
       "seed": 582943312,
-      "version": 261,
-      "versionNonce": 754527824,
+      "version": 263,
+      "versionNonce": 768992985,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910096089,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "points": [
@@ -5536,8 +5482,8 @@
         "type": 3
       },
       "seed": 853353136,
-      "version": 268,
-      "versionNonce": 130066000,
+      "version": 271,
+      "versionNonce": 805523255,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5547,9 +5493,13 @@
         {
           "id": "2TIJqHXfdB3QuG1JCqSlr",
           "type": "arrow"
+        },
+        {
+          "id": "aKLAAu796cAe9S-vkf8zF",
+          "type": "arrow"
         }
       ],
-      "updated": 1731909982642,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5573,11 +5523,11 @@
       "index": "b2J",
       "roundness": null,
       "seed": 1947718224,
-      "version": 248,
-      "versionNonce": 576650928,
+      "version": 250,
+      "versionNonce": 1074111417,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910048950,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "- Service 在集群内的 IP 地址\n- 与 ExternalName 类型冲突\n- headless service 时，值为 None",
@@ -5593,10 +5543,10 @@
     {
       "id": "wx5uXZpomPXBd-OMGVizT",
       "type": "rectangle",
-      "x": 1042.820095616206,
-      "y": -316.7914002680525,
-      "width": 284.78515625000006,
-      "height": 112.3388671875,
+      "x": 1042.281033116206,
+      "y": -309.7874940180525,
+      "width": 443.27734375,
+      "height": 110,
       "angle": 0,
       "strokeColor": "#e03131",
       "backgroundColor": "transparent",
@@ -5612,8 +5562,8 @@
         "type": 3
       },
       "seed": 981517488,
-      "version": 289,
-      "versionNonce": 1148857424,
+      "version": 685,
+      "versionNonce": 1734496343,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5625,17 +5575,17 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910043783,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
     {
       "id": "IVgYULK--HoXQW_bU25hi",
       "type": "text",
-      "x": 1047.820095616206,
-      "y": -298.1219666743025,
-      "width": 254.51991271972656,
-      "height": 75,
+      "x": 1047.281033116206,
+      "y": -304.7874940180525,
+      "width": 420.2999267578125,
+      "height": 100,
       "angle": 0,
       "strokeColor": "#e03131",
       "backgroundColor": "transparent",
@@ -5649,20 +5599,20 @@
       "index": "b2L",
       "roundness": null,
       "seed": 25660496,
-      "version": 255,
-      "versionNonce": 2026471600,
+      "version": 556,
+      "versionNonce": 1927988377,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910043783,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
-      "text": "- 不属于集群的服务别名\n- 如 DNS CNAME 记录\n- ExternalName 类型一起用",
+      "text": "将 Service 映射到 DNS 名称，不依赖选择符\n访问此类 Service 时，重定向发生在 DNS 级别\n- 不属于集群的服务别名\n- ExternalName 类型一起用",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "wx5uXZpomPXBd-OMGVizT",
-      "originalText": "- 不属于集群的服务别名\n- 如 DNS CNAME 记录\n- ExternalName 类型一起用",
+      "originalText": "将 Service 映射到 DNS 名称，不依赖选择符\n访问此类 Service 时，重定向发生在 DNS 级别\n- 不属于集群的服务别名\n- ExternalName 类型一起用",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -5670,7 +5620,7 @@
       "id": "cWzfmFDaoyO3YkEqGEEN9",
       "type": "rectangle",
       "x": 1042.820095616206,
-      "y": -14.302560982338179,
+      "y": -14.177560982338179,
       "width": 429.04296875,
       "height": 125.62988281249999,
       "angle": 0,
@@ -5688,8 +5638,8 @@
         "type": 3
       },
       "seed": 1895358032,
-      "version": 385,
-      "versionNonce": 1713942096,
+      "version": 388,
+      "versionNonce": 428092791,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5701,7 +5651,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909948808,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5709,7 +5659,7 @@
       "id": "aSykh777dXpUMgIHvQ3P6",
       "type": "text",
       "x": 1047.820095616206,
-      "y": -1.4876195760881856,
+      "y": -1.3626195760881856,
       "width": 400,
       "height": 100,
       "angle": 0,
@@ -5725,11 +5675,11 @@
       "index": "b2N",
       "roundness": null,
       "seed": 1498618544,
-      "version": 351,
-      "versionNonce": 199385776,
+      "version": 354,
+      "versionNonce": 1379453305,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909743098,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "为 Service 指定健康检查的节点端口，\n主要用于外部负载均衡器，生效类型及参数：\n- LoadBalancer 类型\n- externalTrafficPolicy 为 Local ",
@@ -5764,8 +5714,8 @@
         "type": 3
       },
       "seed": 818792624,
-      "version": 286,
-      "versionNonce": 1164085840,
+      "version": 288,
+      "versionNonce": 565012119,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5777,7 +5727,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910248683,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5801,11 +5751,11 @@
       "index": "b2P",
       "roundness": null,
       "seed": 486415440,
-      "version": 289,
-      "versionNonce": 99222704,
+      "version": 291,
+      "versionNonce": 657666649,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910244655,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "描述节点分发从 ClusterIp 获取的流量\n- Local：Pod 只希望和同节点的 Endpoint 通信，没有则丢弃流量\n- Cluster：默认值，将流量均匀的分发所有 Endpoint",
@@ -5840,8 +5790,8 @@
         "type": 3
       },
       "seed": 478452304,
-      "version": 241,
-      "versionNonce": 1450085456,
+      "version": 243,
+      "versionNonce": 2123529143,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5853,7 +5803,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909743098,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5877,11 +5827,11 @@
       "index": "b2R",
       "roundness": null,
       "seed": 1777882704,
-      "version": 112,
-      "versionNonce": 944600752,
+      "version": 114,
+      "versionNonce": 1185775417,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909743098,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "根据 ipFamilyPolicy 自动设置，最多 2 个条目，\n不支持 ExternalName 类型",
@@ -5916,8 +5866,8 @@
         "type": 3
       },
       "seed": 72631888,
-      "version": 327,
-      "versionNonce": 1404572336,
+      "version": 329,
+      "versionNonce": 1683483863,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5929,7 +5879,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910448507,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -5953,30 +5903,30 @@
       "index": "b2T",
       "roundness": null,
       "seed": 182976080,
-      "version": 348,
-      "versionNonce": 174276784,
+      "version": 352,
+      "versionNonce": 520826905,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909951571,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
-      "text": "Service 所属的 LoadBalancer 类型标识，\n如果指定必须是标签一样的形式的（如 example.com/internal-vip）\n只 LoadBalancer 类型，未指定则使用默认负载均衡器实现",
+      "text": "Service 所属的 LoadBalancer 类型标识，\n如果指定必须是标签一样的形式的（如 example.com/internal-vip）\nLoadBalancer 类型，未指定则使用默认负载均衡器实现",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "ptgK4OoIsV9oeLxA9rU01",
-      "originalText": "Service 所属的 LoadBalancer 类型标识，\n如果指定必须是标签一样的形式的（如 example.com/internal-vip）\n只 LoadBalancer 类型，未指定则使用默认负载均衡器实现",
+      "originalText": "Service 所属的 LoadBalancer 类型标识，\n如果指定必须是标签一样的形式的（如 example.com/internal-vip）\nLoadBalancer 类型，未指定则使用默认负载均衡器实现",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
       "id": "v9uE2B18ccEppRM1DU5dZ",
       "type": "rectangle",
-      "x": 351.3064237412059,
-      "y": -438.2074158930525,
-      "width": 457.9541015625,
-      "height": 95.6689453125,
+      "x": 327.8337674912059,
+      "y": -438.1566346430525,
+      "width": 502.2978515625,
+      "height": 90.10546875,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#e9ecef",
@@ -5992,8 +5942,8 @@
         "type": 3
       },
       "seed": 1102627504,
-      "version": 156,
-      "versionNonce": 1253696688,
+      "version": 312,
+      "versionNonce": 244464119,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6005,16 +5955,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909933181,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
     {
       "id": "crl7zn0SJVn9rD5j_Xilh",
       "type": "text",
-      "x": 356.3064237412059,
-      "y": -427.8729432368025,
-      "width": 431.7799072265625,
+      "x": 332.8337674912059,
+      "y": -430.6039002680525,
+      "width": 485.2398681640625,
       "height": 75,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -6029,20 +5979,20 @@
       "index": "b2V",
       "roundness": null,
       "seed": 241219664,
-      "version": 112,
-      "versionNonce": 1271684176,
+      "version": 273,
+      "versionNonce": 104842489,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909931402,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
-      "text": "- LoadBallancer 类型使用，默认为 true\n- 在 30000-32767 之间随机选一个\n- 集群负载均衡器不依赖节点端口是设置为 false",
+      "text": "- LoadBallancer 类型使用，默认为 true\n- 在 30000-32767 之间随机选一个\n- 负载均衡器能直接降流量路由到 Pod 时设置为 false",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "v9uE2B18ccEppRM1DU5dZ",
-      "originalText": "- LoadBallancer 类型使用，默认为 true\n- 在 30000-32767 之间随机选一个\n- 集群负载均衡器不依赖节点端口是设置为 false",
+      "originalText": "- LoadBallancer 类型使用，默认为 true\n- 在 30000-32767 之间随机选一个\n- 负载均衡器能直接降流量路由到 Pod 时设置为 false",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -6068,8 +6018,8 @@
         "type": 3
       },
       "seed": 330676400,
-      "version": 634,
-      "versionNonce": 2048860240,
+      "version": 636,
+      "versionNonce": 1380311831,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6081,7 +6031,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909968587,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6105,11 +6055,11 @@
       "index": "b2X",
       "roundness": null,
       "seed": 511366832,
-      "version": 576,
-      "versionNonce": 1845356112,
+      "version": 578,
+      "versionNonce": 1204731353,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909966317,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "sessionAffinity 为 ClusterIP 时\n默认 3h（10800s）,有效值 0 ~ 1d (86400s)",
@@ -6144,8 +6094,8 @@
         "type": 3
       },
       "seed": 199325872,
-      "version": 735,
-      "versionNonce": 320720048,
+      "version": 737,
+      "versionNonce": 1877436471,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6157,7 +6107,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909968587,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6181,11 +6131,11 @@
       "index": "b2Z",
       "roundness": null,
       "seed": 1794899120,
-      "version": 708,
-      "versionNonce": 1563281488,
+      "version": 710,
+      "versionNonce": 1925946041,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909966318,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "默认为 None，启用基于客户端 IP 的会话亲和性",
@@ -6220,8 +6170,8 @@
         "type": 3
       },
       "seed": 250238544,
-      "version": 181,
-      "versionNonce": 125338192,
+      "version": 183,
+      "versionNonce": 626739543,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6233,7 +6183,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909743098,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6257,11 +6207,11 @@
       "index": "b2b",
       "roundness": null,
       "seed": 1627344048,
-      "version": 142,
-      "versionNonce": 1993023664,
+      "version": 144,
+      "versionNonce": 1742330777,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909743098,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "不支持 ExternalName 类型",
@@ -6277,8 +6227,8 @@
     {
       "id": "Pn7KHq3k3g8YJpsaTpwtw",
       "type": "rectangle",
-      "x": 1042.981228428706,
-      "y": 886.4100971277809,
+      "x": 1042.852322178706,
+      "y": 885.0879942631939,
       "width": 496.10156250000006,
       "height": 94.8779296875,
       "angle": 0,
@@ -6296,8 +6246,8 @@
         "type": 3
       },
       "seed": 523171920,
-      "version": 401,
-      "versionNonce": 280082096,
+      "version": 408,
+      "versionNonce": 2146829943,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6307,17 +6257,21 @@
         {
           "id": "DGkwEUUYd16ERwxjfw8ps",
           "type": "arrow"
+        },
+        {
+          "id": "tJDbJF0P_PsawB0QgUAJS",
+          "type": "arrow"
         }
       ],
-      "updated": 1731909730297,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
     {
       "id": "WQ8SgtL_UT4-iEWdOqtB8",
       "type": "text",
-      "x": 1047.981228428706,
-      "y": 896.3490619715309,
+      "x": 1047.852322178706,
+      "y": 895.0269591069439,
       "width": 477.0597839355469,
       "height": 75,
       "angle": 0,
@@ -6333,11 +6287,11 @@
       "index": "b2cV",
       "roundness": null,
       "seed": 2115034288,
-      "version": 371,
-      "versionNonce": 1372952144,
+      "version": 377,
+      "versionNonce": 657260665,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909730297,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "- 用于 ClusterIP、NodePort、LoadBalacer 类型，\n  将流量路由到被这个标签的键值对匹配的 Pod\n- 对于 ExternalName 类型，会被忽略",
@@ -6372,8 +6326,8 @@
         "type": 3
       },
       "seed": 473979472,
-      "version": 476,
-      "versionNonce": 171834032,
+      "version": 478,
+      "versionNonce": 1853628311,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6385,7 +6339,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909953566,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6409,11 +6363,11 @@
       "index": "b2f",
       "roundness": null,
       "seed": 1562536112,
-      "version": 418,
-      "versionNonce": 2102443696,
+      "version": 420,
+      "versionNonce": 1586006361,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909951571,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "负载均衡器不支持时会忽略此字段，限制了\n能够访问此负载均衡器的客户端 IP",
@@ -6448,8 +6402,8 @@
         "type": 3
       },
       "seed": 775926960,
-      "version": 407,
-      "versionNonce": 1360249424,
+      "version": 409,
+      "versionNonce": 321000631,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6461,7 +6415,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731929691849,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6485,11 +6439,11 @@
       "index": "b2h",
       "roundness": null,
       "seed": 390412880,
-      "version": 344,
-      "versionNonce": 604436560,
+      "version": 346,
+      "versionNonce": 926938681,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731929691849,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "- 无视 Pod 本身是否就绪，认为 Endpoints 已经就绪\n- 一般用于 Headless Service\n- 或者基于 Endpoint / EndpointSlice 的控制器",
@@ -6524,8 +6478,8 @@
         "type": 3
       },
       "seed": 833102512,
-      "version": 221,
-      "versionNonce": 749488304,
+      "version": 223,
+      "versionNonce": 1435264471,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6537,7 +6491,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910098629,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6561,11 +6515,11 @@
       "index": "b2j",
       "roundness": null,
       "seed": 1487504464,
-      "version": 209,
-      "versionNonce": 1771354192,
+      "version": 211,
+      "versionNonce": 1681311513,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910096089,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "描述如何将流量分发到 Endpoint，仅作提示\n- 未设置则控制器使用默认路由策略\n- 如设置为 PreferClose 优先考虑拓扑距离",
@@ -6600,8 +6554,8 @@
         "type": 3
       },
       "seed": 1732572848,
-      "version": 348,
-      "versionNonce": 1018710096,
+      "version": 350,
+      "versionNonce": 886018807,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6613,7 +6567,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909953566,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6637,11 +6591,11 @@
       "index": "b2kV",
       "roundness": null,
       "seed": 631873616,
-      "version": 343,
-      "versionNonce": 470219952,
+      "version": 345,
+      "versionNonce": 1876982777,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909951571,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "只支持 LoadBalancer 类型，已弃用",
@@ -6651,82 +6605,6 @@
       "verticalAlign": "middle",
       "containerId": "x2dU4YNbPGMu2EyBwBs31",
       "originalText": "只支持 LoadBalancer 类型，已弃用",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "VZBP-vukTaJzXAyxbzk3q",
-      "type": "rectangle",
-      "x": 495.8669706162059,
-      "y": -100.27284558055248,
-      "width": 256.3916015625,
-      "height": 38.23730468749999,
-      "angle": 0,
-      "strokeColor": "#e03131",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "dotted",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b2o",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1809915984,
-      "version": 313,
-      "versionNonce": 979137712,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "Q5FI1rpaaKIRsCS2SMYV9"
-        },
-        {
-          "id": "DR_Wx0cMSH9RYVzyq1MeQ",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1731910028676,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "Q5FI1rpaaKIRsCS2SMYV9",
-      "type": "text",
-      "x": 503.0527841623866,
-      "y": -93.65419323680248,
-      "width": 242.01997447013855,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#e03131",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "dotted",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b2p",
-      "roundness": null,
-      "seed": 138948272,
-      "version": 311,
-      "versionNonce": 2136370768,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910028676,
-      "link": null,
-      "locked": false,
-      "text": "不属于集群的外部 IP 地址",
-      "fontSize": 20,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "middle",
-      "containerId": "VZBP-vukTaJzXAyxbzk3q",
-      "originalText": "不属于集群的外部 IP 地址",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -6752,8 +6630,8 @@
         "type": 3
       },
       "seed": 681313968,
-      "version": 190,
-      "versionNonce": 480900784,
+      "version": 192,
+      "versionNonce": 1500519447,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6765,7 +6643,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731909992124,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6789,11 +6667,11 @@
       "index": "b2r",
       "roundness": null,
       "seed": 1787799120,
-      "version": 176,
-      "versionNonce": 1187603536,
+      "version": 178,
+      "versionNonce": 1245746393,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731909993461,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "同clusterIP ",
@@ -6828,8 +6706,8 @@
         "type": 3
       },
       "seed": 1889117264,
-      "version": 191,
-      "versionNonce": 653208752,
+      "version": 193,
+      "versionNonce": 1734508855,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6841,7 +6719,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910567276,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6865,11 +6743,11 @@
       "index": "b2t",
       "roundness": null,
       "seed": 1658452560,
-      "version": 162,
-      "versionNonce": 1327797328,
+      "version": 164,
+      "versionNonce": 384471481,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731910566193,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "负载均衡器的入口点列表，\n发往服务的流量应该被发送到这些入口点",
@@ -6904,8 +6782,8 @@
         "type": 3
       },
       "seed": 1880745552,
-      "version": 182,
-      "versionNonce": 334924976,
+      "version": 184,
+      "versionNonce": 269173335,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6917,7 +6795,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910521654,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -6941,11 +6819,11 @@
       "index": "b2v",
       "roundness": null,
       "seed": 610971824,
-      "version": 173,
-      "versionNonce": 1672654416,
+      "version": 175,
+      "versionNonce": 989983385,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903039839,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "基于 DNS 的负载均衡器的入口点\n（一般 AWS 的负载均衡器使用）",
@@ -6980,8 +6858,8 @@
         "type": 3
       },
       "seed": 1927895120,
-      "version": 147,
-      "versionNonce": 1199552592,
+      "version": 149,
+      "versionNonce": 1681842039,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6993,7 +6871,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910527222,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -7017,11 +6895,11 @@
       "index": "b2x",
       "roundness": null,
       "seed": 908799568,
-      "version": 140,
-      "versionNonce": 1541956688,
+      "version": 142,
+      "versionNonce": 725235577,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903039839,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "基于 IP 的负载均衡器的入口点\n（大部分负载均衡器都使用）",
@@ -7037,10 +6915,10 @@
     {
       "id": "6UQFpoDW8z0uraLfVe2n0",
       "type": "rectangle",
-      "x": -408.00370460700833,
+      "x": -408.53495460700833,
       "y": 516.0594646873046,
-      "width": 695,
-      "height": 185,
+      "width": 697,
+      "height": 210,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#fab005",
@@ -7056,8 +6934,8 @@
         "type": 3
       },
       "seed": 1659694160,
-      "version": 343,
-      "versionNonce": 896999504,
+      "version": 352,
+      "versionNonce": 1548135065,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7069,17 +6947,17 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731929778261,
+      "updated": 1732010232903,
       "link": null,
       "locked": false
     },
     {
       "id": "OCKZOqZeK9Uz0uHKvQ4pN",
       "type": "text",
-      "x": -403.00370460700833,
+      "x": -403.53495460700833,
       "y": 521.0594646873046,
-      "width": 684.6998844146729,
-      "height": 175,
+      "width": 686.2799625396729,
+      "height": 200,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -7093,20 +6971,20 @@
       "index": "b2z",
       "roundness": null,
       "seed": 1509122224,
-      "version": 427,
-      "versionNonce": 1475607728,
+      "version": 460,
+      "versionNonce": 858255225,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731930068771,
+      "boundElements": [],
+      "updated": 1732010233326,
       "link": null,
       "locked": false,
-      "text": "指定 IP 类型负载均衡器的行为方式\n（Service 的实现者使用此信息来调整流量路由）\n- VIP：表示流量被传送到节点，目的地址被设置为 LB IP 和端口的节点\n- Proxy：表示流量可以被传递到节点或 Pod（依赖于 LB 的具体实现）\n  - 如果流量被传递到节点，然后 DNAT 到 Pod，则目的地将被设置为节点\n的 IP 和节点端口；\n  - 如果流量被直接传递到 Pod，则目的地将被设置为 Pod 的 IP 和端口。",
+      "text": "指定 IP 类型负载均衡器的行为方式\n（Service 的实现者使用此信息来调整流量路由）\n- VIP：即目标 IP 设置为负载均衡 IP 和端口并发送到节点的流量会被\nkube-proxy 重定向到后端服务\n- Proxy：流量会直达负载均衡器然后被重定向到目标节点\n  - 如果流量被发送到节点然后 DNAT 到达 Pod，目的地应当设置为节点和\nIP 和端口\n  - 如果流量被直接转发到 Pod，目的地应当被设置为 Pod 的 IP 和端口",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "6UQFpoDW8z0uraLfVe2n0",
-      "originalText": "指定 IP 类型负载均衡器的行为方式\n（Service 的实现者使用此信息来调整流量路由）\n- VIP：表示流量被传送到节点，目的地址被设置为 LB IP 和端口的节点\n- Proxy：表示流量可以被传递到节点或 Pod（依赖于 LB 的具体实现）\n  - 如果流量被传递到节点，然后 DNAT 到 Pod，则目的地将被设置为节点的 IP 和节点端口；\n  - 如果流量被直接传递到 Pod，则目的地将被设置为 Pod 的 IP 和端口。",
+      "originalText": "指定 IP 类型负载均衡器的行为方式\n（Service 的实现者使用此信息来调整流量路由）\n- VIP：即目标 IP 设置为负载均衡 IP 和端口并发送到节点的流量会被 kube-proxy 重定向到后端服务\n- Proxy：流量会直达负载均衡器然后被重定向到目标节点\n  - 如果流量被发送到节点然后 DNAT 到达 Pod，目的地应当设置为节点和 IP 和端口\n  - 如果流量被直接转发到 Pod，目的地应当被设置为 Pod 的 IP 和端口",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -7132,8 +7010,8 @@
         "type": 3
       },
       "seed": 1939793584,
-      "version": 214,
-      "versionNonce": 1173870672,
+      "version": 216,
+      "versionNonce": 1539878327,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7145,7 +7023,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731903072439,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -7169,11 +7047,11 @@
       "index": "b31",
       "roundness": null,
       "seed": 1161919568,
-      "version": 214,
-      "versionNonce": 697286832,
+      "version": 216,
+      "versionNonce": 615214393,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903069640,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "记录Service使用的端口列表。\n如果使用，则 Service中定义的每个\n端口都应有一个条目。",
@@ -7208,8 +7086,8 @@
         "type": 3
       },
       "seed": 12893360,
-      "version": 162,
-      "versionNonce": 1347465392,
+      "version": 164,
+      "versionNonce": 1610079959,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7221,7 +7099,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731910588235,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -7245,11 +7123,11 @@
       "index": "b33",
       "roundness": null,
       "seed": 993527376,
-      "version": 155,
-      "versionNonce": 1363286608,
+      "version": 157,
+      "versionNonce": 588996121,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903092875,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "如果存在，保存当前\n负载均衡器的状态",
@@ -7284,8 +7162,8 @@
         "type": 3
       },
       "seed": 1156480080,
-      "version": 191,
-      "versionNonce": 2010924112,
+      "version": 193,
+      "versionNonce": 895740919,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7297,7 +7175,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731903130859,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -7321,11 +7199,11 @@
       "index": "b35",
       "roundness": null,
       "seed": 475743312,
-      "version": 155,
-      "versionNonce": 1397767856,
+      "version": 157,
+      "versionNonce": 874132217,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903130859,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "不使用这个字段",
@@ -7360,8 +7238,8 @@
         "type": 3
       },
       "seed": 1748401328,
-      "version": 273,
-      "versionNonce": 316031664,
+      "version": 275,
+      "versionNonce": 1477530903,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7373,7 +7251,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731903222109,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -7397,11 +7275,11 @@
       "index": "b37",
       "roundness": null,
       "seed": 272778832,
-      "version": 269,
-      "versionNonce": 509242544,
+      "version": 271,
+      "versionNonce": 1814784985,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903222109,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "Service 删除前的资源回收",
@@ -7436,8 +7314,8 @@
         "type": 3
       },
       "seed": 575440464,
-      "version": 241,
-      "versionNonce": 731576912,
+      "version": 243,
+      "versionNonce": 1333041719,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7449,7 +7327,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1731903225682,
+      "updated": 1732010077825,
       "link": null,
       "locked": false
     },
@@ -7473,11 +7351,11 @@
       "index": "b39",
       "roundness": null,
       "seed": 2002625712,
-      "version": 233,
-      "versionNonce": 1336748208,
+      "version": 235,
+      "versionNonce": 56789177,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1731903225682,
+      "boundElements": [],
+      "updated": 1732010077825,
       "link": null,
       "locked": false,
       "text": "常用于扩展 Spec 中没有的字段",
@@ -7489,6 +7367,402 @@
       "originalText": "常用于扩展 Spec 中没有的字段",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "jZsjtJHqeGf9R6h4lpLwK",
+      "type": "rectangle",
+      "x": 1602.8067492620394,
+      "y": 880.5992247319439,
+      "width": 481.95312499999983,
+      "height": 111.31640625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3A",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1408077625,
+      "version": 435,
+      "versionNonce": 1081228119,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4ETIgkHDXEtGCpcvCpk5S"
+        },
+        {
+          "id": "tJDbJF0P_PsawB0QgUAJS",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "4ETIgkHDXEtGCpcvCpk5S",
+      "type": "text",
+      "x": 1607.8067492620394,
+      "y": 886.2574278569439,
+      "width": 463.11968994140625,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3AV",
+      "roundness": null,
+      "seed": 1636395001,
+      "version": 506,
+      "versionNonce": 1667434905,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false,
+      "text": "没有选择符时，创建 EndpointSlice，并通过\nkubernetes.io/service-name 标签来关联 Service：\n- 访问集群外部的服务\n- 访问其他集群中的服务",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "jZsjtJHqeGf9R6h4lpLwK",
+      "originalText": "没有选择符时，创建 EndpointSlice，并通过 kubernetes.io/service-name 标签来关联 Service：\n- 访问集群外部的服务\n- 访问其他集群中的服务",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "tJDbJF0P_PsawB0QgUAJS",
+      "type": "arrow",
+      "x": 1545.3770617620394,
+      "y": 941.0987802469226,
+      "width": 45.51953125,
+      "height": 0.8261096960563918,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3C",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 774041335,
+      "version": 245,
+      "versionNonce": 1063172215,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          45.51953125,
+          0.8261096960563918
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Pn7KHq3k3g8YJpsaTpwtw",
+        "focus": 0.1623654267846044,
+        "gap": 6.423177083333485,
+        "fixedPoint": null
+      },
+      "endBinding": {
+        "elementId": "jZsjtJHqeGf9R6h4lpLwK",
+        "focus": -0.17085960410140807,
+        "gap": 11.91015625,
+        "fixedPoint": null
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "lNNHtcTdM3rSuxyDCoNbe",
+      "type": "rectangle",
+      "x": 1255.4786242620394,
+      "y": -433.8851502680561,
+      "width": 687.20703125,
+      "height": 85,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3D",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2117615031,
+      "version": 671,
+      "versionNonce": 1969254009,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "HbYFIAqbDfZFRODtJ3OZZ"
+        },
+        {
+          "id": "aKLAAu796cAe9S-vkf8zF",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "HbYFIAqbDfZFRODtJ3OZZ",
+      "type": "text",
+      "x": 1260.4786242620394,
+      "y": -428.8851502680561,
+      "width": 663.7796630859375,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3DG",
+      "roundness": null,
+      "seed": 1169776857,
+      "version": 504,
+      "versionNonce": 1644073367,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false,
+      "text": "- Headless Service 不会获得集群 IP，kube-proxy 不会处理这类 Service\n- 无选择符时，port 必须与 targetPort 匹配\n- 通过 DNS 记录返回各 Pod 的 IP 地址（这些记录有 CoreDNS 提供）",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "lNNHtcTdM3rSuxyDCoNbe",
+      "originalText": "- Headless Service 不会获得集群 IP，kube-proxy 不会处理这类 Service\n- 无选择符时，port 必须与 targetPort 匹配\n- 通过 DNS 记录返回各 Pod 的 IP 地址（这些记录有 CoreDNS 提供）",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "aKLAAu796cAe9S-vkf8zF",
+      "type": "arrow",
+      "x": 1190.7442492620394,
+      "y": -365.9789002680561,
+      "width": 61.0693359375,
+      "height": 31.25135938796427,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3F",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1513570263,
+      "version": 704,
+      "versionNonce": 807286617,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          61.0693359375,
+          -31.25135938796427
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "yfPKNXIjOKWV0RAlUxSlR",
+        "focus": 0.7612668823926962,
+        "gap": 1,
+        "fixedPoint": null
+      },
+      "endBinding": {
+        "elementId": "lNNHtcTdM3rSuxyDCoNbe",
+        "focus": 0.8407058465220124,
+        "gap": 3.6650390625,
+        "fixedPoint": null
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "JsLnie42dQdtoN7KnIOzD",
+      "type": "rectangle",
+      "x": 523.9747180120393,
+      "y": -86.27186901805612,
+      "width": 480.08984375000006,
+      "height": 63.61328125,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3G",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2122027159,
+      "version": 355,
+      "versionNonce": 294012599,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "WvfKbUN6EAMeAQeORMJ8V"
+        },
+        {
+          "id": "hTK8-eKfxnG-TmwNfCfG3",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "WvfKbUN6EAMeAQeORMJ8V",
+      "type": "text",
+      "x": 533.589647211258,
+      "y": -79.46522839305612,
+      "width": 460.8599853515625,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3H",
+      "roundness": null,
+      "seed": 1572052279,
+      "version": 310,
+      "versionNonce": 1710220345,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false,
+      "text": "如果有外部 IP 能够路由到一个或多个集群节点上，\n则 Service 可以在这些 externalIPs 上公开出去。",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "JsLnie42dQdtoN7KnIOzD",
+      "originalText": "如果有外部 IP 能够路由到一个或多个集群节点上，则 Service 可以在这些 externalIPs 上公开出去。",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "hTK8-eKfxnG-TmwNfCfG3",
+      "type": "arrow",
+      "x": 476.22081176203926,
+      "y": -27.760150268056123,
+      "width": 37.7734375,
+      "height": 27.415831723386916,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3I",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 572972985,
+      "version": 254,
+      "versionNonce": 479877079,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1732010077825,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          37.7734375,
+          -27.415831723386916
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "4UTS4FDxMgK4cr0UobEho",
+        "focus": 0.6780100342710267,
+        "gap": 6.209690460987758,
+        "fixedPoint": null
+      },
+      "endBinding": {
+        "elementId": "JsLnie42dQdtoN7KnIOzD",
+        "focus": 0.884230219447118,
+        "gap": 9.980468750000057,
+        "fixedPoint": null
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
