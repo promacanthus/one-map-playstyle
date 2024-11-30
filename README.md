@@ -1,94 +1,94 @@
 # One Map Playstyle
 
-## [第零章：ISO 网络模型](docs/00-chapter_0.md)
+## [Chap.0: ISO Network Model](docs/00-chapter_0.md)
 
-- 介绍前三层网络的架构和基础概念。
-- 解释前三层网络之间的通信原理。
+- Introduce the architecture and basic concepts of the first three layers of the network.
+- Explain the communication principles between the first three layers of the network.
 
-## [第一章：Kubernetes 网络概述](docs/01-chapter_1.md)
+## [Chap.1：Kubernetes Network](docs/01-chapter_1.md)
 
-- 1.1 Kubernetes 网络模型
-  - 介绍 Kubernetes 的网络架构和基本概念。
-  - 解释 Pod、Service 和网络策略之间的关系。
-- 1.2 网络通信原理
-  - 描述容器之间的通信方式。
-  - 讨论网络命名空间和虚拟网络接口。
+- 1.1 Kubernetes Network Model
+  - Introduce the network architecture and basic concepts of Kubernetes.
+  - Explain the relationship between Pods, Services, and network policies.
+- 1.2 Network Communication Principles
+  - Describe how containers communicate with each other.
+  - Discuss network namespaces and virtual network interfaces.
 
-## [第二章：单机视角的容器网络栈](docs/02-chapter_2.md)
+## [Chap.2：Container Network Stack](docs/02-chapter_2.md)
 
-- 2.1 容器网络栈概述
-  - 介绍容器如何使用 Linux 网络栈。
-  - 描述容器与宿主机之间的网络交互。
-- 2.2 网络命名空间
-  - 深入讲解 Linux 网络命名空间的工作原理。
-  - 展示如何在命名空间中配置网络。
-- 2.3 虚拟网络接口
-  - 介绍虚拟以太网对（veth pairs）的概念。
-  - 演示如何创建和使用 veth 接口。
+- 2.1 Overview of Container Network Stack
+  - Introduce how containers use the Linux network stack.
+  - Describe the network interactions between containers and the host machine.
+- 2.2 Network Namespaces
+  - Deep dive into how Linux network namespaces work.
+  - Demonstrate how to configure networks within namespaces.
+- 2.3 Virtual Network Interfaces
+  - Introduce the concept of virtual Ethernet pairs (veth pairs).
+  - Demonstrate how to create and use veth interfaces.
 
-## [第三章：CNI（容器网络接口）](docs/03-chapter_3.md)
+## [Chap.3： Container Network Interface](docs/03-chapter_3.md)
 
-- 3.1 CNI 概述
-  - 定义 CNI 的作用和重要性。
-  - 讨论 CNI 插件的类型和功能。
-- 3.2 常用 CNI 插件
-  - 比较不同的 CNI 插件（如 Flannel、Calico、Weave）。
-  - 展示如何安装和配置一个 CNI 插件。
-- 3.3 CNI 的工作机制
-  - 深入探讨 CNI 的工作流程，包括 Pod 创建时的网络配置过程。
+- 3.1 Overview of CNI
+  - Define the role and importance of CNI.
+  - Discuss the types and functions of CNI plugins.
+- 3.2 Common CNI Plugins
+  - Compare different CNI plugins (e.g., Flannel, Calico, Weave).
+  - Show how to install and configure a CNI plugin.
+- 3.3 Mechanism of CNI
+  - Explore the workflow of CNI, including the network configuration process when creating Pods.
 
-## [第四章：Kubernetes Service](docs/04-chapter_4.md)
+## [Chap.4：Kubernetes Service](docs/04-chapter_4.md)
 
-- 4.1 Service 的类型
-  - 描述 ClusterIP、NodePort 和 LoadBalancer 的区别和使用场景。
-- 4.2 Service 的工作原理
-  - 深入讲解 Kubernetes 如何实现服务发现和负载均衡。
-- 4.3 Headless 服务与 DNS
-  - 讨论无头服务的概念及其在服务发现中的应用。
+- 4.1 Types of Services
+  - Describe the differences and use cases for ClusterIP, NodePort, and LoadBalancer.
+- 4.2 Working Principles of Services
+  - Deep dive into how Kubernetes implements service discovery and load balancing.
+- 4.3 Headless Services and DNS
+  - Discuss the concept of headless services and their application in service discovery.
 
-## [第五章：Kubernetes DNS](docs/05-chapter_5.md)
+## [Chap.5：Kubernetes DNS](docs/05-chapter_5.md)
 
-- 5.1 DNS 在 Kubernetes 中的角色
-  - 描述 Kubernetes 内置 DNS 的功能和重要性。
-- 5.2 DNS 配置与使用
-  - 展示如何配置和使用 Kubernetes DNS。
-- 5.3 常见问题与故障排除
-  - 列出常见 DNS 问题及其解决方案。
+- 5.1 Role of DNS in Kubernetes
+  - Describe the functions and importance of built-in DNS in Kubernetes.
+- 5.2 DNS Configuration and Usage
+  - Show how to configure and use Kubernetes DNS.
+- 5.3 Common Issues and Troubleshooting
+  - List common DNS issues and their solutions.
 
-## [第六章：BGP（边界网关协议）](docs/06-chapter_6.md)
+## [Chap.6：Board Gateway Protocol](docs/06-chapter_6.md)
 
-- 6.1 BGP 概述
-  - 定义 BGP 的基本概念及其在互联网中的作用。
-- 6.2 BGP 的工作原理
-  - 深入探讨 BGP 路由选择过程及其算法。
-- 6.3 在 Kubernetes 中使用 BGP
-  - 描述如何在 Kubernetes 集群中配置 BGP，以实现跨节点路由。
+- 6.1 Overview of BGP
+  - Define the basic concepts of BGP and its role in the internet.
+- 6.2 Working Principles of BGP
+  - Explore the BGP routing selection process and its algorithms.
+- 6.3 Using BGP in Kubernetes
+  - Describe how to configure BGP in a Kubernetes cluster for cross-node routing.
 
-## [第七章：BIRD](docs/07-chapter_7.md)
+## [Chap.7：BIRD](docs/07-chapter_7.md)
 
-- 7.1 BIRD 概述
-  - 简介 BIRD 软件及其在 BGP 中的应用。
-- 7.2 BIRD 配置与管理
-  - 展示如何安装和配置 BIRD，进行基本操作。
-- 7.3 与 Kubernetes 集成
-  - 描述如何将 BIRD 与 Kubernetes 集成，实现 Pod 路由广告。
+- 7.1 Overview of BIRD
+  - Introduce BIRD software and its applications in BGP.
+- 7.2 Configuration and Management of BIRD
+  - Show how to install, configure BIRD, and perform basic operations.
+- 7.3 Integration with Kubernetes
+  - Describe how to integrate BIRD with Kubernetes for Pod routing advertisement.
 
-## [第八章：案例研究与最佳实践](docs/08-chapter_8.md)
+## [Chap.8：Cases and Best Practices](docs/08-chapter_8.md)
 
-- 8.1 实际案例分析
-  - 分析一些使用 Kubernetes 网络的实际案例，展示最佳实践。
-- 8.2 故障排除与优化建议
-  - 提供常见问题的解决方案和优化建议，以提高网络性能和可靠性。
+- 8.1 Case Analysis
+  - Analyze practical cases using Kubernetes networking to showcase best practices.
+- 8.2 Troubleshooting and Optimization Suggestions
+  - Provide solutions for common issues and optimization suggestions to improve network performance and reliability.。
 
-## [第章：总结与展望](docs/09-chapter_9.md)
+## [Chap.9：Summary](docs/09-chapter_9.md)
 
-- 9.1 本书总结
-  - 总结各章节要点，重申 Kubernetes 网络的重要性。
-- 9.2 前景展望
-  - 探讨未来 Kubernetes 网络的发展方向及新技术趋势。
+- 9.1 Summary of This Book
+  - Summarize key points from each chapter, reiterating the importance of Kubernetes networking.
+- 9.2 Future Outlook
+  - Discuss future directions for Kubernetes networking development and new technology trends.
 
-## 附录
+## Appendix
 
-- 附录 A: 常用命令汇总
-- 附录 B: 配置文件示例
-- 附录 C: 故障排除指南
+- Appendix A: Summary of Common Commands
+- Appendix B: Sample Configuration Files
+- Appendix C: Troubleshooting Guide
