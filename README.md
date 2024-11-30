@@ -87,7 +87,7 @@
 - 9.2 Future Outlook
   - Discuss future directions for Kubernetes networking development and new technology trends.
 
-## Appendix
+## [Appendix](docs/appendix.md)
 
 - Appendix A: Summary of Common Commands
 - Appendix B: Sample Configuration Files

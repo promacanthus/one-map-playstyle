@@ -2,10 +2,22 @@
 
 ## Service Definition
 
-![Service](../images/04-service.png)
+![Service](../images/04_svc-spec.png)
 
-## IPtables
+## kube-proxy
 
-![iptables](../images/04-iptables.png)
+![kube-proxy](../images/04_kube-proxy.png)
 
-## IPVS
+## Examples
+
+### iptables
+
+![iptables](../images/04_iptables-ex-svc.png)
+
+### ipvs
+
+![ipvs](../images/04_ipvs-ex-svc.png)
+
+### Client Source IP
+
+![client-sip](../images/04_svc-source-ip.png)
