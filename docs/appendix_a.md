@@ -22,3 +22,9 @@
 ### DNS Troubleshooting
 
 ![dns-troubleshooting](../images/appx_dns-trouble-shoot.png)
+
+## Appendix D: Others
+
+### Exit Codes
+
+![exit-codes](../images/appx_k8s-exit-code.png)
