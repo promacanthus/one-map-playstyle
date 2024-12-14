@@ -64,14 +64,12 @@
 - 6.3 Using BGP in Kubernetes
   - Describe how to configure BGP in a Kubernetes cluster for cross-node routing.
 
-## [Chap.7：BIRD](docs/07-chapter_7.md)
+## [Chap.7：Gateway API](docs/07-chapter_7.md)
 
-- 7.1 Overview of BIRD
-  - Introduce BIRD software and its applications in BGP.
-- 7.2 Configuration and Management of BIRD
-  - Show how to install, configure BIRD, and perform basic operations.
-- 7.3 Integration with Kubernetes
-  - Describe how to integrate BIRD with Kubernetes for Pod routing advertisement.
+- 7.1 Introduction to Gateway API
+  - Introduce the Gateway API, its purpose, and its relationship with other networking solutions.
+- 7.2 Gateway API Architecture
+  - Discuss the architecture and components of the Gateway API.
 
 ## [Chap.8：Cases and Best Practices](docs/08-chapter_8.md)
 
@@ -79,13 +77,6 @@
   - Analyze practical cases using Kubernetes networking to showcase best practices.
 - 8.2 Troubleshooting and Optimization Suggestions
   - Provide solutions for common issues and optimization suggestions to improve network performance and reliability.。
-
-## [Chap.9：Summary](docs/09-chapter_9.md)
-
-- 9.1 Summary of This Book
-  - Summarize key points from each chapter, reiterating the importance of Kubernetes networking.
-- 9.2 Future Outlook
-  - Discuss future directions for Kubernetes networking development and new technology trends.
 
 ## [Appendix](docs/appendix.md)
 
