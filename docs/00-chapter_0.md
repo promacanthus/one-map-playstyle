@@ -8,12 +8,16 @@
 
 ### Network initialization
 
-![linux-network](../images/01_linux-net.png)
+![linux-network](../images/00_linux-net.png)
 
 ### Interruption
 
-![linux-interrupt](../images/01_linux-net-irq.png)
+![linux-interrupt](../images/00_linux-net-irq.png)
 
 ### Network Processing
 
-![linux-net-proc](../images/01_linux-net-proc.png)
+![linux-net-proc](../images/00_linux-net-proc.png)
+
+### Network IO Mode
+
+![linux-net-io](../images/00_linux-net-io.png)
