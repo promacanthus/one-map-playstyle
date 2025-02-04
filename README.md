@@ -78,6 +78,13 @@
 - 8.2 Troubleshooting and Optimization Suggestions
   - Provide solutions for common issues and optimization suggestions to improve network performance and reliability.。
 
+## [Chap.9：Golang](docs/09-chapter_9.md)
+
+- 9.1 Introduction to Golang Scheduling
+  - The basic concepts of Golang scheduling and its implementation.
+- 9.2 The Go Net Poll
+  - Deep dive into the Go net poller and its role in network communication.
+
 ## [Appendix](docs/appendix.md)
 
 - Appendix A: Summary of Common Commands
