@@ -71,12 +71,12 @@
 - 7.2 Gateway API Architecture
   - Discuss the architecture and components of the Gateway API.
 
-## [Chap.8：Cases and Best Practices](docs/08-chapter_8.md)
+## [Chap.8：Kubernetes Architecture](docs/08-chapter_8.md)
 
-- 8.1 Case Analysis
-  - Analyze practical cases using Kubernetes networking to showcase best practices.
-- 8.2 Troubleshooting and Optimization Suggestions
-  - Provide solutions for common issues and optimization suggestions to improve network performance and reliability.。
+- 8.1 Scheduler
+  - Describe the role and functions of the Kubernetes scheduler.
+- 8.2 Client-go
+  - Describe the role and functions of the Kubernetes client-go.
 
 ## [Chap.9：Golang](docs/09-chapter_9.md)
 
